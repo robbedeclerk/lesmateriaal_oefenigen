@@ -1,0 +1,50 @@
+unit test(pytest)course managment system 
+
+
+adress class:
+test of we de class kunnen callen
+test of we een adress kunnen aanmaken met geldige params
+test of alle velden ingevuld zijn:empystringerror bij lege straat/stad/zip/country ,  nonumber eror bij ontbreekende huisnummer 
+
+person class: 
+test of we de class kunnen callen
+test of we een adress kunnen aanmaken met geldige params
+test of we meerdere addressen kunnen toevoegen 
+test toevoegen van foutief adres notanaddreserror
+test of de __str__ method werkt
+test of de geboortedatum conversie een incorrecrtdatestrinerror nij aanleveren van een foutieve geboortedatim string
+test of de geboortedatul correct wordt aangemaajt bij juiste datum
+
+student class:
+test of we de class kunnen callen
+test of we een adress kunnen aanmaken met geldige params
+
+student class:
+test of de is part time methode corect werk ahv aantal enrollments;<3==partime
+test toevoegen enroll oblect aan een student
+test toevoegen foutife eroll object geeft incorrectenrolloblecterror
+test de is on probetiom merhode voor de werking van de logica: true als enrollmebt voor studente == 0
+
+
+professor class: 
+test of we de class kunnen callen
+test of we een adress kunnen aanmaken met geldige params
+test of de proffesor in aanmerking kot voor salarisverhoging
+test toevoegen van een course object aan de professor
+testof incorrectcourseeroor wordt opgeworpen bij toevoegen foutive course
+
+course class: 
+test of we de class kunnen callen
+test of we een adress kunnen aanmaken met geldige params
+test professor aan course kunnen toevoegen
+test of we meerdere professoren aan course kunnen toevoegen
+test of de course word gecancelt 
+test of een enroll oblect kan worden toevoegen
+test foutafhandeling wanneer course vol is
+testincorrectprofessorerror bij toevoegen van incorecte professor object
+
+enroll:
+test of we de class kunnen callen
+test of we enroll kunnen aanmaken met geldige params 
+test of we de grade kunnen instellen in de range 0-20
+test of we een incorrectgradeerror krijgen indien een grade buiten deze range wordt ingevoerdt

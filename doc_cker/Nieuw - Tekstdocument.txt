@@ -1,0 +1,4 @@
+docker build -t demo_app
+
+
+docker run -p 5000:5000 --rm -- name dockeredflaskdemo - v "PWD/app:/app" demo_app

@@ -1,0 +1,81 @@
+{
+    "EVs": [
+        {
+            "brand": "Tesla",
+            "model": "Model S",
+            "range": 400,
+            "price": 80000,
+            "year": 2022
+        },
+        {
+            "brand": "Nissan",
+            "model": "Leaf",
+            "range": 150,
+            "price": 30000,
+            "year": 2021
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Bolt",
+            "range": 259,
+            "price": 36000,
+            "year": 2021
+        },
+        {
+            "brand": "Audi",
+            "model": "e-tron",
+            "range": 204,
+            "price": 70000,
+            "year": 2022
+        },
+        {
+            "brand": "BMW",
+            "model": "i3",
+            "range": 153,
+            "price": 45000,
+            "year": 2022
+        }
+    ],
+    "ICEs" : [
+        {
+            "brand": "Toyota",
+            "model": "Camry",
+            "fuelType": "Gasoline",
+            "mpg": 29,
+            "price": 25000,
+            "year": 2022
+        },
+        {
+            "brand": "Honda",
+            "model": "Civic",
+            "fuelType": "Gasoline",
+            "mpg": 36,
+            "price": 22000,
+            "year": 2022
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang",
+            "fuelType": "Gasoline",
+            "mpg": 25,
+            "price": 35000,
+            "year": 2022
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Camaro",
+            "fuelType": "Gasoline",
+            "mpg": 24,
+            "price": 40000,
+            "year": 2022
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "fuelType": "Gasoline",
+            "mpg": 32,
+            "price": 28000,
+            "year": 2022
+        }
+    ]
+}

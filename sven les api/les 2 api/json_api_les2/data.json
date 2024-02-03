@@ -1,0 +1,19 @@
+{
+"EVs":[
+{"model":"audi",
+"year":"2020",
+"color":"blue",
+"transmission":"manual",
+"price": 50000},
+{"model":"bmw",
+"year":"2022",
+"color":"blue",
+"transmission":"automatic",
+"price": 70000},
+{"model":"volkwagen",
+"year":"2010",
+"color":"red",
+"transmission":"automatic",
+"price": 40000}
+]
+}
